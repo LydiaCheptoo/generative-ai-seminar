@@ -1,7 +1,7 @@
 # 💰 Simple Expense Tracker
 
 ### 📌 Description
-A beginner-friendly Python project that helps track your daily expenses right from the terminal.
+A beginner-friendly  project that helps track your daily expenses right from the terminal.
 
 ---
 
@@ -18,3 +18,4 @@ A beginner-friendly Python project that helps track your daily expenses right fr
 2. Run the program:
    ```bash
    python expense_tracker.py
+
